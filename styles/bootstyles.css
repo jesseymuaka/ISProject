@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+.headCenter{
+
+text-align: center;
+}
+
+.TabLeft{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.header {
+    padding: 20px;
+    text-align: center;
+    background: rgb(104, 55, 39);
+    color: black;
+    font-size: 20px;
+  }
+  .footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(104, 55, 39);
+    color: white;
+  }
